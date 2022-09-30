@@ -10,3 +10,4 @@ for(let i = 0; i<5; i++){
     // document.write("<br>");
     document.write(i + "<br>"); //Example Concat
 }
+    document.write("<br> Rest of the code");
