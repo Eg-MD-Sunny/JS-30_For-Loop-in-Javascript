@@ -14,11 +14,21 @@
 
 
 //Example - 02  
+// var i=0;
+// for(; i<10; i++){
+//     document.write(i + '<br>')
+// }
+//     document.write("<br> Rest of the code");
+
+
+//Example - 03      
 var i=0;
-for(; i<10; i++){
+for(; i<5; ){
+    i++;
     document.write(i + '<br>')
 }
     document.write("<br> Rest of the code");
+    
 
 
 
